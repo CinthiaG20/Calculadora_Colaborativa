@@ -14,3 +14,12 @@ public class Substraction
     }
 }
 >>>>>>> Stashed changes
+
+public class Addition
+{ 
+    //implementacion de la operacion suma
+    public static int Add(int a, int b)
+    {
+        return a + b;
+    }
+}
