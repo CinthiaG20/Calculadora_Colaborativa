@@ -2,10 +2,6 @@
 Console.WriteLine(Substraction.Substract(10, 1));
 Console.WriteLine(Multiplication.Multiply(3, 3));
 Console.WriteLine(Division.Divide(18, 2));
-<<<<<<< Updated upstream
-=======
-
-// Esta clase implementa la operación <resta>.
 public class Substraction
 {
     public static int Substract(int a, int b)
@@ -13,4 +9,3 @@ public class Substraction
         return a - b;
     }
 }
->>>>>>> Stashed changes
