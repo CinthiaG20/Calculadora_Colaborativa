@@ -16,23 +16,25 @@ public class Division
     public static double Divide(int a, int b)
     {
         return (double)a / b;
+    }
+}
 
 // Esta clase implementa la operación <resta>.
-public class Substraction
-{
-    public static int Substract(int a, int b)
+    public class Substraction
     {
-        return a - b;
+        public static int Substract(int a, int b)
+        {
+            return a - b;
+        }
     }
-}
-Stashed changes
 
-public class Addition
-{ 
-    //implementacion de la operacion suma
-    public static int Add(int a, int b)
+    //Stashed changes
+
+    public class Addition
     {
-        return a + b;
- main
+        //implementacion de la operacion suma
+        public static int Add(int a, int b)
+        {
+            return 0;
+        }
     }
-}
